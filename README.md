@@ -35,12 +35,6 @@
 ![Node-RED](https://img.shields.io/badge/-Node--RED-333333?style=flat&logo=nodered&logoColor=8F0000)
 ![Modbus](https://img.shields.io/badge/-Modbus-333333?style=flat&logo=probot)
 
-<br/>
-
-<a href="https://github.com/ricBam" title="Perfil do Ricardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricBam&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Ricardo%20Borges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobamoraes/)](https://www.linkedin.com/in/ricardobamoraes/)
