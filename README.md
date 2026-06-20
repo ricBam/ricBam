@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-- 🤔 Explorando dados e desenvolvendo soluções analíticas para problemas reais.
-- 🎓 Engenheiro Eletrônico — UNESP (2023).
+- 🤔 Explorando a área de dados e desenvolvendo soluções analíticas para problemas reais.
+- 🎓 Engenheiro Eletrônico e de Telecomunicações — UNESP (2023).
 - 🔄 Em transição para Analista de Dados · Google Data Analytics Certificate em andamento.
 - 🌱 Aprendendo mais sobre Python, SQL avançado, Power BI e projetos de dados end-to-end.
 
